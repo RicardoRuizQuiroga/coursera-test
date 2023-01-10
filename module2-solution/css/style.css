@@ -2,7 +2,6 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    background-color: gray;
 }
 
 body{
@@ -42,8 +41,8 @@ body{
 .item-box-title
 {
     position: absolute;
-    top: 0;
-    right: 0;
+    top: 0px;
+    right: 0px;
     background-color: lightsalmon;
     padding: 6px 90px;
     border-left: 1px solid black;
@@ -105,7 +104,6 @@ body{
     }
   
   }
-  
   
   /*Tablet*/
   @media (min-width: 768px) and (max-width: 991px){
