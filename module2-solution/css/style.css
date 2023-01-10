@@ -33,7 +33,7 @@ body{
 
 .item p
 {
-    margin-top: 15px;
+    margin-top: 25px;
     text-align: left;
     font-size: 100%;
 }
@@ -41,12 +41,9 @@ body{
 .item-box-title
 {
     position: absolute;
-    top: 0px;
-    right: 0px;
     padding: 6px 90px;
     border-left: 2px solid black;
     border-bottom: 2px solid black;
-    margin-bottom: 25px;
 }
 
 #title-box {
