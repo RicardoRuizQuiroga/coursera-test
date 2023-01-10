@@ -17,13 +17,19 @@ body{
     margin-bottom: 30px;
 }
 
+.container{
+  position: relative;
+  top:60px;
+  margin: 15px; 
+ }
+ 
 .item-box{
     position: relative;
     top: 0;
     background-color: aquamarine;
-    margin: 20px;
+    margin: 15px;
     padding: 25px;
-    border: 2px solid black;
+    border: 1px solid black;
 }
 
 .item p
