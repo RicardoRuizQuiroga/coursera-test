@@ -2,6 +2,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    background-color: gray;
 }
 
 body{
@@ -35,10 +36,10 @@ body{
 .item-box-title
 {
     position: absolute;
-    top: 1;
-    right: 1;
+    top: 0;
+    right: 0;
     background-color: lightsalmon;
-    padding: 5px 100px;
+    padding: 5px 90px;
     border-left: 1px solid black;
     border-bottom: 1px solid black;
 }
